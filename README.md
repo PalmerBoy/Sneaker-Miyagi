@@ -1,2 +1,2 @@
-# Sneaker-Miyagi
-my first rep
+# Miyagi Sneaker
+AJ1
